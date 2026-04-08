@@ -1,0 +1,4 @@
+env12
+.mypy_cache
+.vscode
+__pycache__
