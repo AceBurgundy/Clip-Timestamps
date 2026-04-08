@@ -1,6 +1,6 @@
 # 🎬 Clip-Timestamps: Series-Scale Sequence Detector
 
-**Clip-Timestamps** is a high-precision Python module designed to identify specific video sequences—like openings and endings—across multiple files based on a user-provided template. It is optimized for episodic content like anime, K-Dramas, or sit-coms by matching target videos against a "Gold Standard" reference.
+A high-precision Python module designed to identify specific video sequences-like openings and endings across multiple files based on a user-provided template. It is optimized for episodic content like anime, K-Dramas, or sit-coms by matching target videos against a "Gold Standard" reference.
 
 ## 🚀 Key Features
 
